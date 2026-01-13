@@ -41,3 +41,7 @@ if __name__ == "__main__":
     movie = get_movie("Inception")
     print(movie)
     print(movie["title"])
+
+    movie = get_movie("La La Land")
+    print(movie)
+    print(movie["title"])
